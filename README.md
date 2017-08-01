@@ -53,6 +53,7 @@ consulte la sección de reglas al final de este documento.
 	Aqui se puede apreciar una lista de Pokémon permitidos y baneados siendo los permitidos los que se puede ver su imagen
 	y los baneados los que estan tachados con una **X**.
 </P>
-![banlist](/images/banlist.jpg)
 
+![banlist](/images/banlist.jpg)
+======
 ## <CENTER>[Si te interesa participar puedes dar clic aquí](https://www.facebook.com/groups/Los47Ebrios/)</CENTER>
