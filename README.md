@@ -1,10 +1,10 @@
 # <CENTER><FONT COLOR="RED">Cartelera Ronin</FONT></CENTER>
-<CENTER>![Portada](images/ronin.jpg)</CENTER>
+<CENTER>![Portada](/images/ronin.jpg)</CENTER>
 
 ### <CENTER><FONT COLOR="BLUE">Descripción</FONT></CENTER>
 -----------------------------
 <P ALIGN="justify">
-	La Cartelera Ronin es un sistema de combates por puntos de Pokémon Sol/Luna en el grupo [Los 47 Ronin](https://www.facebook.com/groups/Los47Ebrios/) 
+	La Cartelera Ronin es un sistema de combates por puntos de Pokémon Sol/Luna en el grupo [Los 47 Ronin](https://www.facebook.com/groups/Los47Ebrios/ "Los 47 Ronin")
 	el cual se lleva a cabo semanalmente, para participar es necesario hacer una previa inscripción en una publicación los dias 
 	martes y librar el combate a mas tardar el sabado en la noche, es necesario que el combate se lleve a cabo lo más pronto
 	posible ya que se procura transmitir las batallas en el grupo, también es importante no divulgar el resultado mas que a los
@@ -52,6 +52,6 @@
 	Aqui se puede apreciar una lista de Pokémon permitidos y baneados siendo los permitidos los que se puede ver su imagen
 	y los baneados los que estan tachados con una **X**.
 </P>
-<CENTER>![banlist](images/banlist.jpg)</CENTER>
+<CENTER>![banlist](/images/banlist.jpg)</CENTER>
 
 ## <CENTER>[Si te interesa participar puedes dar clic aquí](https://www.facebook.com/groups/Los47Ebrios/)</CENTER>
