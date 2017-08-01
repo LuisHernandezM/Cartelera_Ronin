@@ -2,7 +2,7 @@
 ![Portada](/images/ronin.jpg)
 
 ### <CENTER><FONT COLOR="BLUE">Descripción</FONT></CENTER>
-=
+==========
 
 	La Cartelera Ronin es un sistema de combates por puntos de Pokémon Sol/Luna en el grupo [Los 47 Ronin](https://www.facebook.com/groups/Los47Ebrios/ "Los 47 Ronin").
 	el cual se lleva a cabo semanalmente, para participar es necesario hacer una previa inscripción en una publicación los dias 
